@@ -1,8 +1,6 @@
 White colonial sea squir
 
 
-Ref:
-
 
 # Reference
 

@@ -1,0 +1,19 @@
+
+ ======================
+              precision    recall  f1-score   support
+
+           0     0.9818    0.9767    0.9793      1160
+           1     0.9579    0.9670    0.9624       636
+
+    accuracy                         0.9733      1796
+   macro avg     0.9699    0.9719    0.9708      1796
+weighted avg     0.9734    0.9733    0.9733      1796
+
+matrix = 		[[1133   27]
+ [  21  615]]
+accuracy = 		0.9733
+precision = 	0.9699
+recall = 		0.9719
+f1 = 				0.9708
+kappa = 			0.9417
+test time = 	24.13

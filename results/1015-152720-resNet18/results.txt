@@ -1,0 +1,79 @@
+
+ ======================
+              precision    recall  f1-score   support
+
+           0     0.9666    0.9966    0.9813      1160
+           1     0.9933    0.9371    0.9644       636
+
+    accuracy                         0.9755      1796
+   macro avg     0.9799    0.9668    0.9729      1796
+weighted avg     0.9760    0.9755    0.9753      1796
+
+matrix = 		[[1156    4]
+ [  40  596]]
+accuracy = 		0.9755
+precision = 	0.9799
+recall = 		0.9668
+f1 = 				0.9729
+kappa = 			0.9457
+test time = 	24.85
+
+ ======================
+              precision    recall  f1-score   support
+
+           0     0.6457    0.9991    0.7844      1160
+           1     0.0000    0.0000    0.0000       636
+
+    accuracy                         0.6453      1796
+   macro avg     0.3228    0.4996    0.3922      1796
+weighted avg     0.4170    0.6453    0.5066      1796
+
+matrix = 		[[1159    1]
+ [ 636    0]]
+epoch = 	8
+accuracy = 		0.6453
+precision = 	0.3228
+recall = 		0.4996
+f1 = 				0.3922
+kappa = 			-0.0011
+test time = 	26.37
+
+ ======================
+              precision    recall  f1-score   support
+
+           0     0.9666    0.9966    0.9813      1160
+           1     0.9933    0.9371    0.9644       636
+
+    accuracy                         0.9755      1796
+   macro avg     0.9799    0.9668    0.9729      1796
+weighted avg     0.9760    0.9755    0.9753      1796
+
+matrix = 		[[1156    4]
+ [  40  596]]
+epoch = 	8
+accuracy = 		0.9755
+precision = 	0.9799
+recall = 		0.9668
+f1 = 				0.9729
+kappa = 			0.9457
+test time = 	25.03
+
+ ======================
+              precision    recall  f1-score   support
+
+           0     0.9666    0.9966    0.9813      1160
+           1     0.9933    0.9371    0.9644       636
+
+    accuracy                         0.9755      1796
+   macro avg     0.9799    0.9668    0.9729      1796
+weighted avg     0.9760    0.9755    0.9753      1796
+
+matrix = 		[[1156    4]
+ [  40  596]]
+epoch = 	8
+accuracy = 		0.9755
+precision = 	0.9799
+recall = 		0.9668
+f1 = 				0.9729
+kappa = 			0.9457
+test time = 	24.84
